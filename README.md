@@ -1,0 +1,1 @@
+Repository of exercise solutions and experiments from reading [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/index.html). Not all exercise solutions are here, just those that I decided to create Scheme files for. Full, community-created solutions can be found [in the Scheme Wiki](http://community.schemewiki.org/?sicp-ex-1.5).
